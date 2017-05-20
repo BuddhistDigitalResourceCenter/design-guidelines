@@ -1,0 +1,54 @@
+{
+  "name": "gopeon",
+  "version": "0.0.0",
+  "description": "un peon qu'il est bien",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.0",
+    "del": "^2.0.2",
+    "gh-pages": "^1.0.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean": "^0.3.1",
+    "gulp-cli": "^0.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-open": "^1.0.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.1",
+    "gulp-watch": "^4.2.4",
+    "imagemin": "^3.2.0",
+    "imagemin-pngquant": "^4.2.0",
+    "main-bower-files": "^2.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tfrere/gopeon.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-plumber": "^1.0.1",
+    "joi": "^10.2.0",
+    "moment-duration-format": "^1.3.0",
+    "request": "^2.65.0"
+  }
+}
