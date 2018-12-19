@@ -1,4 +1,4 @@
-TBRC Guidelines
+TBRC Guidelines 
 =========================
 
 This repository represents graphic & design researches for TBRC's Identity.
